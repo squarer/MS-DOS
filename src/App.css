@@ -1,0 +1,27 @@
+body, .cmd, pre {
+  font-family: 'Inconsolata', monospace;
+  font-size: 1em;
+  background-color: #000;
+  color: #ddd;
+  text-align: left;
+}
+
+pre {
+  margin-top: 0;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+}
+
+.cmd {
+  border: none;
+  outline: none;
+  margin-left: .5em;
+  flex-grow: 1;
+}
+
+.launch {
+  margin-bottom: 2em;
+}
