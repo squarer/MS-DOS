@@ -1,7 +1,7 @@
 {
   "name": "ms-dos",
   "version": "0.1.0",
-  "private": true,
+  "homepage" : "http://squarer.github.io/MS-DOS",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
